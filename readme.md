@@ -19,3 +19,10 @@
 
 ![查看引用](插件：清理没用的资源文件/link.png)
 
+------
+
+# 5.Unity 内置SVN插件
+
+![SVN](插件：Unity内置SVN插件/pic.PNG)
+
+
